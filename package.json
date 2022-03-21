@@ -1,0 +1,28 @@
+{
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start"
+  },
+  "dependencies": {
+    "bootstrap": "latest",
+    "formik": "latest",
+    "next": "latest",
+    "next-compose-plugins": "latest",
+    "node-sass": "latest",
+    "react": "17.0.2",
+    "react-dom": "17.0.2",
+    "react-text-rotator": "latest",
+    "reactstrap": "latest",
+    "webpack": "latest",
+    "next-images": "latest",
+    "react-tsparticles": "latest",
+    "tsparticles": "latest",
+    "availity-reactstrap-validation": "latest"
+  },
+  "devDependencies": {
+    "react-modal-video": "^1.2.8"
+  }
+
+}
