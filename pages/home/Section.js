@@ -30,13 +30,14 @@ const Section = props => {
                                         We help startups launch their products
                     </h1>
                                     <p className="pt-3 home-desc">
-                                        Etiam sed.Interdum consequat proin vestibulum class at a
-                                        euismod mus luctus quam.Lorem ipsum dolor sit amet,
-                                        consectetur adipisicing eli.
+                                        You got a business idea in your head, but how will it work in practice?
+                                        Our services, are aimed at people who already have an idea,
+                                        but need help realising it.
+                                        Shape your ideas with Us.
                     </p>
                                     <div className="mt-4">
                                         <iframe
-                                            title="arTecBA"
+                                            title="artecba"
                                             src="http://player.vimeo.com/video/69988283?color=f15b72&amp;title=0&amp;byline=0&amp;portrait=0"
                                             width="555"
                                             height="321"
